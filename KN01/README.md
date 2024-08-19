@@ -15,3 +15,7 @@
   
 2.  
    ![RAM Schritt 2](https://github.com/user-attachments/assets/5bd5be1d-94f4-425b-bd7b-0fccd258ce35)
+
+### Antwort zur Frage:
+<p>
+Wenn ich zum Beispiel meiner VM mehr CPU-Kerne zuweise, als mein Computer physisch hat, versucht die Virtualisierungssoftware, diese zusätzliche Leistung zu simulieren. Wenn das nicht möglich ist, weil die Software oder Hardware das nicht erlaubt, bekomme ich eine Fehlermeldung. Der Computer sagt mir damit, dass er nicht genug physische Ressourcen hat, um diese Anforderung zu erfüllen.
