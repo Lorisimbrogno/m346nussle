@@ -39,11 +39,14 @@ Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as y
 - **HTML Page:** [http://54.162.58.76/](http://54.162.58.76/)
   - ![alt text](image-1.png)
 
-- **Details of the Webserver Instance:**
+- **List of Instances:**
   - ![alt text](image-2.png)
 
+  - **Details of the Webserver Instance:**
+  - ![alt text](image-8.png)
+
 - **Inbound Rule:**
-  - ![Inbound Rule](image-3.png)
+  - ![alt text](image-9.png)
 
 ---
 
