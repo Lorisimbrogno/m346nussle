@@ -1,4 +1,5 @@
-#AWS MODULE 1
+#Lab 4.1 EC2
+##AWS MODULE 1 Notizen
 
 ##Aufgabe 1
 
@@ -34,7 +35,7 @@ Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as y
 
 ##Den Rest einfach gelesen.
 
-#AWS MODULE 4
+#AWS MODULE 4.1
 HTML Seite:
 http://54.162.58.76/
 ![alt text](image.png)
@@ -44,3 +45,28 @@ Details der Webserver Instanz:
 ![alt text](image-2.png)
 Inbound Regel:
 ![alt text](image-3.png)
+
+#Lab 4.2 S3
+Liste der Buckets:
+![alt text](image-4.png)
+HTML Seite:
+http://modulm346loris.s3-website-us-east-1.amazonaws.com/
+![alt text](image-5.png)
+Liste der Dateien im Bucket:
+![alt text](image-6.png)
+Eigenschaften von "Static Website Hosting"
+![alt text](image-7.png)
+Json für öffentlichen Zugriff:
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::modulm346loris/*"
+        }
+    ]
+}
+
