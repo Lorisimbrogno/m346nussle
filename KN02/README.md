@@ -37,10 +37,10 @@ Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as y
 # AWS Module 4.1
 
 - **HTML Page:** [http://54.162.58.76/](http://54.162.58.76/)
-  - ![Running Instances](image.png)
+  - ![alt text](image-1.png)
 
 - **Details of the Webserver Instance:**
-  - ![Webserver Details](image-2.png)
+  - ![alt text](image-2.png)
 
 - **Inbound Rule:**
   - ![Inbound Rule](image-3.png)
@@ -50,16 +50,16 @@ Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as y
 # Lab 4.2 S3
 
 - **List of Buckets:**
-  - ![List of Buckets](image-4.png)
+  - ![alt text](image-7.png)
 
 - **HTML Page:** [http://modulm346loris.s3-website-us-east-1.amazonaws.com/](http://modulm346loris.s3-website-us-east-1.amazonaws.com/)
-  - ![HTML Page](image-5.png)
+  - ![alt text](image-4.png)
 
 - **List of Files in the Bucket:**
-  - ![List of Files](image-6.png)
+  - ![alt text](image-5.png)
 
 - **Properties of "Static Website Hosting":**
-  - ![Static Website Hosting](image-7.png)
+  -![alt text](image-6.png)
 
 ### JSON for Public Access
 ```json
