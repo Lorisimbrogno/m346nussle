@@ -18,9 +18,9 @@ Information was sourced from credible industry reports (Gartner, IDC), academic 
 
 ### Differences in Cloud Service Use
 
-- **IaaS:** Businesses rent computing resources like servers and storage, ideal for flexibility and control.
-- **PaaS:** Provides platforms for developing and managing applications, streamlining the development process.
-- **SaaS:** Offers software on a subscription basis, commonly used for tools like CRM and office productivity.
+- **IaaS:** infrastructure as a Service. Businesses rent computing resources like servers and storage, ideal for flexibility and control.
+- **PaaS:** Platform as a Service. Provides platforms for developing and managing applications, streamlining the development process.
+- **SaaS:** Software as a Service. Offers software on a subscription basis, commonly used for tools like CRM and office productivity.
 
 ### Most Important Service
 
@@ -29,3 +29,18 @@ Information was sourced from credible industry reports (Gartner, IDC), academic 
 ### Advice for Starting a Business
 
 Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as your business grows and needs more flexibility or custom development.
+<br>
+#AWS MODULE 2
+
+##Den Rest einfach gelesen.
+
+#AWS MODULE 4
+HTML Seite:
+http://54.162.58.76/
+![alt text](image.png)
+Running Instances:
+![alt text](image-1.png)
+Details der Webserver Instanz:
+![alt text](image-2.png)
+Inbound Regel:
+![alt text](image-3.png)
