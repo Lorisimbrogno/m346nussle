@@ -81,3 +81,12 @@ Start with **SaaS** for essential tools, then consider **IaaS** or **PaaS** as y
 ```
 
 # Zugriff mit SSH-key
+
+## Zugriff mit dem ersten Key-Pair
+![alt text](image-10.png)
+
+## Zugriff mit dem zweiten Key-Pair
+![alt text](image-11.png)
+
+## Details der Instanz Details
+![alt text](image-12.png)
