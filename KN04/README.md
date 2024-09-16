@@ -9,3 +9,9 @@
 ### Definierte IPs
 - **Webserver (Subnet-KN03)**: 172.31.16.10
 - **DB-Server (Subnet-KN04)**: 172.31.64.20
+
+## Aufgabe 3
+### Liste der Security Groups
+![alt text]({C149B03D-4119-44AE-8C45-60307D4CBD04}.png)
+![alt text]({1293DA48-3054-4126-B33C-550939A3E71F}.png)
+![alt text]({E9655524-F9EF-49D7-A4FF-982855453E71}.png)
