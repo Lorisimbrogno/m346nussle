@@ -1,4 +1,4 @@
-# Aufgaben
+# Aufgaben A
 
 ## 1) Rehosting
 
@@ -46,7 +46,7 @@ Ihre Firma plant, Heroku als Plattform zu nutzen. Die Kosten für die Entwicklun
 ![alt text](image-1.png)
 
 **Begründung:**  
-Ich würde Microsoft Azure bevorzugen, da es eine benutzerfreundlichere Oberfläche bietet und die Arbeit dadurch effizienter gestaltet wird. Mit Azure konnten wir die Aufgaben schneller abschließen, während der Prozess bei Amazon Web Services (AWS) deutlich länger gedauert hat.
+Ich würde Amazon bevorzugen, da es eine benutzerfreundlichere Oberfläche bietet und die Arbeit dadurch effizienter gestaltet wird. Mit Azure konnten wir die Aufgaben zwar schneller abschliessen aber ich finde trotzdem, dass man mit Amazon mehr einstellen kann. 
 
 ### 2. Replatforming (Heroku)
 ![alt text]({2A5A702F-4AC2-405A-BFEF-E0463F88521D}.png)
@@ -79,3 +79,36 @@ Salesforce Sales Cloud ist zwar eine der mächtigsten und am weitesten verbreite
 
 **Zusammenfassung:**  
 Die **SaaS-Lösung** ist die beste Wahl für das Unternehmen in Bezug auf das CRM. Sie erfordert weniger administrativen Aufwand, ist kosteneffizient und skalierbar. IaaS und PaaS wären hier überdimensioniert und unnötig kompliziert. Zusätzliche Punkte, die beachtet werden müssen, sind Datensicherheit und Datenschutz. Bei der Auswahl des SaaS-Anbieters sollte geprüft werden, wie mit sensiblen Kundendaten umgegangen wird und ob der Anbieter den Anforderungen der Datenschutzgrundverordnung (DSGVO) gerecht wird.
+
+# Aufgaben B) Interpretation der Resultate 
+
+### 1. Preisvergleich und Unterschiede der Angebote
+
+Die Analyse der Kostenrechnung für **Rehosting**, **Replatforming** und **Repurchasing** hat gezeigt, dass die Angebote der verschiedenen Anbieter in mehreren Aspekten stark variieren:
+
+- **Rehosting:**  
+  - AWS und Azure haben vergleichbare Preismodelle, jedoch unterscheiden sich die Kosten in Abhängigkeit von den spezifischen Konfigurationen und den gewählten Zusatzdiensten wie Load Balancer und Backup-Speicher.
+  
+- **Replatforming:**  
+  - Heroku bietet eine flexible Plattform, die es ermöglicht, Anwendungen einfach zu skalieren. Die Kosten sind hier meist kalkulierbarer, da die Plattform eine feste Preisstruktur für die Nutzung hat.
+
+- **Repurchasing:**  
+  - Zwischen Zoho CRM und Salesforce Sales Cloud gibt es erhebliche Preisunterschiede, wobei Zoho CRM die kostengünstigere Lösung ist.
+
+### 2. Welches ist das billigste?
+
+- **Zoho CRM** hat sich als die günstigste Option für das Repurchasing herausgestellt. Für die spezifischen Anforderungen von 16 Mitarbeitern bietet es ein gutes Preis-Leistungs-Verhältnis, da es grundlegende Funktionen zu einem weitaus niedrigeren Preis als Salesforce bereitstellt.
+
+- Im Bereich **Rehosting** können die Preise je nach Konfiguration schwanken, jedoch tendiert Azure oft zu einer wirtschaftlicheren Lösung für die Anforderungen des Unternehmens.
+
+### 3. Wieso ist eines davon viel teurer? Ist es aber wirklich teurer?
+
+- **Salesforce Sales Cloud** ist teurer, weil es ein umfassenderes und leistungsstärkeres System mit erweiterten Funktionen bietet, die auf größere Unternehmen abzielen. Diese zusätzlichen Funktionen rechtfertigen jedoch nicht immer den Preis für ein kleines Unternehmen, das keine komplexen Anforderungen hat.
+
+- Auf den ersten Blick scheint Salesforce teurer zu sein, aber es ist wichtig zu berücksichtigen, dass die Wahl der richtigen Lösung stark von den individuellen Bedürfnissen des Unternehmens abhängt. Für Unternehmen, die in der Zukunft wachsen möchten und auf erweiterte Funktionen angewiesen sind, könnte Salesforce den höheren Preis rechtfertigen. 
+
+- Für **Rehosting** könnte eine gründliche Betrachtung der tatsächlich benötigten Ressourcen dazu führen, dass die Kosten von AWS oder Azure realistischer eingeschätzt werden. Oftmals können Unternehmen mit einer sorgfältigen Planung der Infrastruktur und der Wahl des passenden Preismodells die Kosten minimieren.
+
+### Fazit
+
+Die Entscheidung für eine Cloud-basierte Lösung sollte nicht nur auf den unmittelbaren Kosten basieren, sondern auch auf den langfristigen Anforderungen und der strategischen Ausrichtung des Unternehmens. **Zoho CRM** ist die kosteneffizienteste Lösung für die aktuelle Situation, während die Cloud-Infrastruktur (Rehosting) sorgfältig geplant werden muss, um unnötige Ausgaben zu vermeiden. Die Analyse der Kosten und der angebotenen Funktionen zeigt, dass eine informierte Entscheidung entscheidend für den Erfolg der Migration in die Cloud ist.
