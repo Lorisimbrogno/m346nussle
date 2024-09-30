@@ -49,4 +49,7 @@ Ihre Firma plant, Heroku als Plattform zu nutzen. Die Kosten für die Entwicklun
 Ich würde Microsoft Azure bevorzugen, da es eine benutzerfreundlichere Oberfläche bietet und die Arbeit dadurch effizienter gestaltet wird. Mit Azure konnten wir die Aufgaben schneller abschließen, während der Prozess bei Amazon Web Services (AWS) deutlich länger gedauert hat.
 
 ### 2. Replatforming (Heroku)
-![alt text](image-3.png)
+![alt text]({2A5A702F-4AC2-405A-BFEF-E0463F88521D}.png)
+
+**Begründung:**  
+Heroku bietet eine hervorragende Plattform-as-a-Service (PaaS) Lösung, die sich durch einfache Bedienbarkeit und automatische Skalierung auszeichnet. Diese Plattform nimmt uns viele Infrastrukturaufgaben ab, die wir bei anderen Lösungen selbst verwalten müssten. Für kleinere bis mittlere Projekte ist Heroku besonders attraktiv, da die Integration von Datenbanken, Backups und Skalierungsoptionen ohne großen Aufwand möglich ist. Die Wahl von Heroku reduziert außerdem die Komplexität bei der Verwaltung der Infrastruktur, was Zeit spart und die Entwicklungszyklen verkürzt.
