@@ -8,3 +8,5 @@
 ![alt text]({61470A55-CFE8-4E27-A9FA-25B6EDD89953}.png)
 ## zweites key pair:
 ![alt text]({1EB1F98D-221D-4C1A-BF25-B16A567F5EB0}.png)
+## CLoud Init Datei:
+![alt text]({72ACCD51-49EA-472C-A67F-F38ECB641E10}-1.png)
