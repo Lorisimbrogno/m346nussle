@@ -10,3 +10,10 @@
 ![alt text]({1EB1F98D-221D-4C1A-BF25-B16A567F5EB0}.png)
 ## CLoud Init Screenshot:
 ![alt text]({72ACCD51-49EA-472C-A67F-F38ECB641E10}-1.png)
+
+## funktionierende Seiten!!
+![alt text]({9D721AB4-8A9E-404E-BB64-EF59FE8B16D9}.png)
+![alt text]({9976B600-7CB9-47F2-ACD9-4E4B4BAC146E}.png)
+![alt text]({1ADF23CC-80E5-4CF6-A459-791EAFD2EBC8}.png)
+## letzter screenshot
+![alt text]({765CDC4E-DFF0-4DEC-9BC0-F658CE9EC4B2}.png)
