@@ -22,7 +22,8 @@ Ja, das Ändern der Festplattengröße ist möglich, ohne die Instanz neu zu sta
 Nein, das Ändern des Instanztyps ist nur im gestoppten Zustand möglich.
 
 # Horizontale Skalierung
-Wie müssten Sie den DNS konfigurieren, damit die Applikaiton unter URL app.tbz-m346.ch ist?
+Wie müssten Sie den DNS konfigurieren, damit die Applikaiton unter URL app.tbz-m346.ch ist?<br/>
 Damit das möglich ist, muss man einen A-record machen. Das würde die URL von der TBZ mit dem Load balancer DNS von mit verbinden.
-Wie müssten Sie den DNS konfigurieren, damit dies funktioniert?
+<br/>
+Wie müssten Sie den DNS konfigurieren, damit dies funktioniert?<br/>
 Um app.tbz-m346.ch zu konfigurieren, erstelle ich einen CNAME-Eintrag, der auf die Ziel-Domain (z.B. myapp.heroku.com) verweist. Falls eine IP-Adresse vorhanden ist, kann ich stattdessen einen A-Eintrag mit dieser IP verwenden. Diese Einträge ermöglichen es, dass die Domain auf die Anwendung verweist.
