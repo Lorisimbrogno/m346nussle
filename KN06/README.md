@@ -27,3 +27,15 @@ Damit das möglich ist, muss man einen A-record machen. Das würde die URL von d
 <br/>
 Wie müssten Sie den DNS konfigurieren, damit dies funktioniert?<br/>
 Um app.tbz-m346.ch zu konfigurieren, erstelle ich einen CNAME-Eintrag, der auf die Ziel-Domain (z.B. myapp.heroku.com) verweist. Falls eine IP-Adresse vorhanden ist, kann ich stattdessen einen A-Eintrag mit dieser IP verwenden. Diese Einträge ermöglichen es, dass die Domain auf die Anwendung verweist.
+funktionierende Seite:
+![alt text]({5548FE3B-39EC-4FF9-945A-91A880FF8755}.png)
+
+
+# Evaluation Cloud-Init:
+Es ist sowohl riskant als auch wenig sinnvoll, im Skript auf Benutzernamen und Passwörter zu verzichten. Cloud Init speichert diese Informationen in den Metadaten beim Serverstart, und es besteht die Möglichkeit, dass Dritte darauf zugreifen und die Zugangsdaten ermitteln können. Darüber hinaus ist die Passwortauthentifizierung problematisch, da wir kein Passwort definiert haben. Auch die Verwendung von sudo im runcmd-Abschnitt ist überflüssig.
+
+
+
+
+
+
