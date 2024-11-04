@@ -22,3 +22,12 @@ Um den Wartungsaufwand zu verringern, habe ich automatische Updates aktiviert, d
 ![alt text]({60BDF017-E838-41BB-BA8E-CB7DE3F21E94}.png)
 ![alt text]({7BB58BEA-18EC-48F6-B7FF-578A47794EC6}.png)
 CloudFormation ist ein AWS-Tool zur Bereitstellung und Verwaltung ganzer Infrastrukturen als Code. Cloud-Init konfiguriert dagegen einzelne EC2-Instanzen beim Start. CloudFormation orchestriert die gesamte Umgebung, während Cloud-Init nur die Instanz-Initialisierung automatisiert.
+
+**Vergleich der Auto-Scaling-Gruppe mit KN06:**
+
+- **Kapazität:** Die aktuelle Auto-Scaling-Gruppe ist auf eine gewünschte Kapazität von 1 Instanz eingestellt, während KN06-AS mit 2 Instanzen konfiguriert ist. Dies deutet darauf hin, dass KN06-AS auf höhere oder stabilere Lasten ausgelegt ist.
+
+- **Availability Zones:** Die ausgewählte Gruppe nutzt die Availability Zones `us-east-1a` und `us-east-1c`, wohingegen KN06-AS ausschließlich `us-east-1b` verwendet. Die Verteilung über mehrere Zonen erhöht die Ausfallsicherheit der ausgewählten Gruppe.
+
+- **Instanztyp:** Beide Gruppen verwenden den Instanztyp `t3.micro`, was darauf hinweist, dass sie für leichte Workloads geeignet sind. Die unterschiedlichen Kapazitäten zeigen jedoch, dass sie an verschiedene Lastanforderungen angepasst wurden.
+
